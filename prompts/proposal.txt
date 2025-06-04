@@ -1,0 +1,20 @@
+Generate a challenging question that is not easily solvable. You are allowed to use your search capability to create the question. You should look for books, lecture notes, wikipedia, discussions on online forums, and blog posts not only for searching pieces of knowledge buy also how people reason or prove things. By assembling these into one quesiton, you could come up with a challenging query. Most importantly, do not directly copy-and-paste questions that already exist from the web since this is not a challenging problem. You should come up with a novel question that could only be answered by attending all the documents you have searched and deeply reasoning over them.
+
+Let's define a good question as follows:
+(1) Not too easy (since there's no meaning to use it as training data).
+(2) Requires recalling muliple pieces of knowledge (rather than just a few pieces of knowledge and will collectively serve as stepping stones to arrive at the final answer).
+(3) Requires a lot of reasoning in between (rather than directly deriving the final answer and requires making interim findings to reach the final answer).
+(4) Not ill-defined (not a subjective question or an unanswerable question).
+(5) Not too long (trying to make the question too long doesn't necesssarily make it a hard question, it should instead be as concise as possible while maintaining all necessary information if needed).
+
+Here are the guildelines to use the search capability:
+
+
+Here are the guidelines to make the problem:
+(1) Instead of a question that asks to explain about a concept or asks to prove a lemma, generate a question that has a decisive answer, which is either a number or an equation.
+(2) The question should be related to [TOPIC].
+(3) The question should ask for only one answer, and not be consisted of multiple sub-problems. Instead of making mulitple sub-problems, do not mention them explicitly and make a single question that requires solving those multiple sub-problems implicitly in order to derive the final answer.
+(4) Think deeply of what might be a challenging problem that is not ill-defined. This includes, (a) proposing muliple variants or ideas of a problem, (b) iteratively revising the problems to make them harder by searching for clues on the web, (c) trying to solve them in between and checking if the question is currently too easy or ill-defined, (d) checking if the proposed problem already exists on the web and rejecting to find alternatives.
+(5) The question should not require looking at images and should only be solvable in text.
+(6) After you are done thinking, provide the "question" (string), "processes_to_make_the_problem_harder" (list of strings; attempts you made to make the question more challenging), "reference_documents" (list of strings; the documents you have searched for while creating the problem), "why_is_this_a_hard_problem" (string; explanation of why this is a hard problem), and "answer" (int or string) in a JSON format.
+

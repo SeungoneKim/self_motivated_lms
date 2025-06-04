@@ -1,0 +1,2123 @@
+[
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Beam code development & simulation techniques"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Beam countermeasures"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Beam impedance"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Beam instabilities"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Beam optics",
+        "fourth_category": "Beam optics correction schemes"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Beam optics",
+        "fourth_category": "Beam optics transport"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Beam optics",
+        "fourth_category": "Lattices in beam optics"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Beam processes"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "High intensity beam dynamics",
+        "fourth_category": "Beam cooling"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "High intensity beam dynamics",
+        "fourth_category": "Beam halos"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "High intensity beam dynamics",
+        "fourth_category": "Incoherent beam instabilities"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "High intensity beam dynamics",
+        "fourth_category": "Space charge in beams"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Low-energy multiple-particle dynamics"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Nonlinear beam dynamics",
+        "fourth_category": "Beam resonances"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Nonlinear beam dynamics",
+        "fourth_category": "Beam tracking"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Nonlinear beam dynamics",
+        "fourth_category": "Higher order beam dynamics"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Relativistic multiple-particle dynamics"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam dynamics",
+        "third_category": "Single-particle dynamics"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Electromagnetic field calculations",
+        "third_category": "Room-temperature magnet calculations"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Electromagnetic field calculations",
+        "third_category": "Superconducting magnet calculations"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Accelerator/storage ring control systems"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Beam control",
+        "fourth_category": "Beam cooling"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Beam control",
+        "fourth_category": "Beam polarization"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Beam control",
+        "fourth_category": "Damping rings"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Beam diagnostics"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Beam injection, extraction & transport"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Beam loss"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Collimation"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Beam techniques",
+        "third_category": "Secondary beams"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Radio frequency techniques",
+        "third_category": "Radio frequency techniques"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Radio frequency techniques",
+        "third_category": "Radio frequency power sources"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Radio frequency techniques",
+        "third_category": "Room temperature RF"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Radio frequency techniques",
+        "third_category": "Superconducting RF"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Cryogenics & vacuum technology",
+        "third_category": "Cryogenic technology"
+    },
+    {
+        "first_category":"Accelerators and Beams",
+        "second_category": "Cryogenics & vacuum technology",
+        "third_category": "Vacuum technology"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Atom or molecule scattering from surfaces"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Chemical reactions",
+        "fourth_category": "Chemical charge transfer"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Electron & positron scattering"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Electronic excitation & ionization",
+        "fourth_category": "Charge migration"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Interatomic & molecular potentials",
+        "fourth_category": "Electric dipole-dipole interactions"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Scattering of atoms, molecules, clusters & ions",
+        "fourth_category": "Charge-transfer collisions"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Scattering of atoms, molecules, clusters & ions",
+        "fourth_category": "Ion & atom channeling"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Scattering of atoms, molecules, clusters & ions",
+        "fourth_category": "Stopping power"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Scattering theory",
+        "fourth_category": "Phase shift"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular collisions",
+        "third_category": "Ultracold collisions"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Anderson localization"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Atom interferometry",
+        "fourth_category": "Mach-Zehnder atom interferometry"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Atom lasers"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Atom optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Atomtronics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Bose gases"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Bose-Einstein condensates",
+        "fourth_category": "BEC tunneling"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Bose-Einstein condensates",
+        "fourth_category": "Spinor Bose-Einstein condensates"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Cold and ultracold molecules"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Cold gases in optical lattices"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Decoherence in quantum gases"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Dipolar gases",
+        "fourth_category": "Dipolar Rydberg atoms"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Dipolar gases",
+        "fourth_category": "Dipolar atoms"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Dipolar gases",
+        "fourth_category": "Dipolar molecules"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Electron wave interferometry"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Entanglement in quantum gases"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Fermi gases"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Fermionic condensates"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Mixtures of atomic and/or molecular quantum gases",
+        "fourth_category": "Bose-Bose mixtures"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Mixtures of atomic and/or molecular quantum gases",
+        "fourth_category": "Bose-Fermi mixtures"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Rydberg gases"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Spin-orbit coupling",
+        "fourth_category": "Dresselhaus coupling"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Spin-orbit coupling",
+        "fourth_category": "Dzyaloshinskii-Moriya interaction"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Spin-orbit coupling",
+        "fourth_category": "Rashba coupling"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Cold atoms & matter waves",
+        "third_category": "Synthetic gauge fields"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Structured light",
+        "third_category": ""
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Atomic, optical & lattice clocks"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Autoionization & Auger processes"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Coherent control"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Cooling & trapping",
+        "fourth_category": "Atom & ion cooling"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Cooling & trapping",
+        "fourth_category": "Atom & ion trapping & guiding"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Cooling & trapping",
+        "fourth_category": "Optical lattices & traps"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Cooling & trapping",
+        "fourth_category": "Optical lattices & traps",
+        "fifth_category": "BCS-BEC crossover"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Cooling & trapping",
+        "fourth_category": "Penning traps"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Electro-optical spectra"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Laser-cluster interaction"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Magneto-optical spectra"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Molecular dissociation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Multiphoton or tunneling ionization & excitation",
+        "fourth_category": "High-order harmonic generation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Nuclear & electron resonance"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Optical pumping"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Optical transient phenomena"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Photoassociation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Photodetachment"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Photodissociation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Photoemission",
+        "fourth_category": "Inner-shell processes"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Single- and few-photon ionization & excitation",
+        "fourth_category": "Laser-modified scattering"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Photoemission",
+        "fourth_category": "Nonsequential double (or multiple) ionization"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Spontaneous emission"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Stark effect"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Strong electromagnetic field effects",
+        "fourth_category": "Strong field ionization & excitation",
+        "fifth_category": "XUV generation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Strong electromagnetic field effects",
+        "fourth_category": "Strong-field-induced spectra"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Strong electromagnetic field effects",
+        "fourth_category": "Ultrashort pulses",
+        "fifth_category": "Few-cycle light pulses"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Strong electromagnetic field effects",
+        "fourth_category": "Ultrashort pulses",
+        "fifth_category": "Pulse characterization"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Ultrafast phenomena",
+        "fourth_category": "Pulse shaping"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Ultrafast phenomena",
+        "fourth_category": "XUV generation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular processes in external fields",
+        "third_category": "Zeeman effect"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Collective effects in atomic physics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic & molecular clusters",
+        "fourth_category": "Collective effects in clusters"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic & molecular clusters",
+        "fourth_category": "Diffusion & dynamics of clusters"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic & molecular clusters",
+        "fourth_category": "Electronic & magnetic properties of clusters"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic & molecular clusters",
+        "fourth_category": "// Optical properties of clusters"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic & molecular clusters",
+        "fourth_category": "Phase transitions in clusters"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic & molecular clusters",
+        "fourth_category": "Reactivity of clusters"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic & molecular clusters",
+        "fourth_category": "Spectroscopy of clusters"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic & molecular clusters",
+        "fourth_category": "Stability of clusters"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic orbital"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic spectra",
+        "fourth_category": "Lifetimes & widths",
+        "fifth_category": "Lifetime of molecular or ionic species"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic spectra",
+        "fourth_category": "Lineshapes & shifts"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Atomic spectra",
+        "fourth_category": "Oscillator strength"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Casimir effect & related phenomena"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Chemical binding"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Electron correlation calculations for atoms & ions"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Electronic structure of atoms & molecules",
+        "fourth_category": "Isotope shift"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Electronic transitions"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Fine & hyperfine structure"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Long-range interactions"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Molecular spectra",
+        "fourth_category": "Renner-Teller effect"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Potential energy surfaces"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Relativistic & quantum electrodynamic effects in atoms, molecules,& ions"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Rotational states"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Van der Waals interaction"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Atomic & molecular structure",
+        "third_category": "Vibrational states",
+        "fourth_category": "Vibronic effects"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Angular momentum of light",
+        "fourth_category": "Optical vortices"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Geometrical & wave optics",
+        "fifth_category": "Light propagation in random media"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Imaging & optical processing",
+        "fifth_category": "Ghost imaging"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Imaging & optical processing",
+        "fifth_category": "Holography"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Imaging & optical processing",
+        "fifth_category": "Lidar"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Imaging & optical processing",
+        "fifth_category": "Radar"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Imaging & optical processing",
+        "fifth_category": "Tomography"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Interference & diffraction of light"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Light propagation, transmission & absorption",
+        "fifth_category": "Evanescent waves"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Light propagation, transmission & absorption",
+        "fifth_category": "Non-diffracting waves"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Optical interferometry",
+        "fifth_category": "Nonclassical interferometry"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Polarization of light"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Classical optics",
+        "fourth_category": "Transformation optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Effects of atomic coherence on light propagation",
+        "fourth_category": "Coherent population trapping"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Effects of atomic coherence on light propagation",
+        "fourth_category": "Electromagnetically induced transparency"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Effects of atomic coherence on light propagation",
+        "fourth_category": "Lasing without inversion"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Effects of atomic coherence on light propagation",
+        "fourth_category": "Stimulated Raman adiabatic passage"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Electron beams & optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Gain properties of lasers"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Lasers",
+        "fourth_category": "Air lasing"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Lasers",
+        "fourth_category": "Frequency combs & self-phase locking"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Lasers",
+        "fourth_category": "Laser applications"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Lasers",
+        "fourth_category": "Laser dynamics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Lasers",
+        "fourth_category": "Laser spectroscopy"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Lasers",
+        "fourth_category": "Laser-system design"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Lasers",
+        "fourth_category": "Spatial profiles of optical beams"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Abraham-Minkowski debate"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Atoms, ions, & molecules in cavities"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Cherenkov radiation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Compton scattering"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Light stopping & storage"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Mechanical effects of light on material media",
+        "fifth_category": "Remote sensing"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Mie scattering"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Optical interactions with surfaces"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Quantum description of light-matter interaction",
+        "fifth_category": "Minkowski momentum"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Light-matter interaction",
+        "fourth_category": "Semiconductor Bloch equations"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Masers"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Acoustic metamaterials",
+        "fifth_category": "Metagratings"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Acoustic metamaterials",
+        "fifth_category": "Phononic crystals"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Hyperbolic metamaterials"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Magnonic crystals"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Mechanical metamaterials"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Metasurfaces"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Negative refraction"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Optical cloaking"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Split-ring resonators"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Metamaterials",
+        "fourth_category": "Wire medium"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Near-field optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Non-reciprocal propagation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Non-reciprocal transmission"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Autocorrelation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Brillouin scattering & spectroscopy"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Cross-phase modulation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Electro-optic effects"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Electronic polarizability"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Electronic susceptibility"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Frequency conversion"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "High-order harmonic generation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Modulation instability"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Nonlinear optical susceptibility"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Nonlinear resonance"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Nonlinear waveguides"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Optical bistability"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Optical chaos",
+        "fifth_category": "Dynamics of nonlinear optical systems"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Optical chaos",
+        "fifth_category": "Optical instabilities"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Optical solitons",
+        "fifth_category": "Optical rogue waves"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Parametric resonance"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Photorefractive & Kerr effects",
+        "fifth_category": "Optical activity"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Pulse compression"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Rayleigh scattering"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Second order nonlinear optical processes"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Self-focusing"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Spectral shaping"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Stimulated Raman scattering",
+        "fifth_category": "Impulsive stimulated Raman scattering"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Supercontinuum generation"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Third order nonlinear optical processes"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Nonlinear optics",
+        "fourth_category": "Upconversion"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical coherence"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Bragg structures"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Crystal optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Lenses"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Nonlinear optical materials"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Nonlocal nonlinear media"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Optical fibers"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Optical isolators"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Optical microcavities"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Optical parametric oscillators & amplifiers"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Optical sources & detectors"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Organic microcavities"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Photodetectors"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Quantum cavities"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Semiconductor microcavities"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Spatial light modulators"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optical materials & elements",
+        "fourth_category": "Waveguides",
+        "fifth_category": "Waveguide arrays"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optomechanics",
+        "fourth_category": "Rotation sensing"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Optomechanics",
+        "fourth_category": "Sagnac effect"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Photonic crystals",
+        "fourth_category": "Photonic crystal waveguide"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Photonics",
+        "fourth_category": "Fano resonance"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Photonics",
+        "fourth_category": "Integrated optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Photonics",
+        "fourth_category": "Nanophotonics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Photonics",
+        "fourth_category": "Topological effects in photonic systems"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Plasmonics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Cavity quantum electrodynamics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Circuit quantum electrodynamics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Collective effects in quantum optics",
+        "fifth_category": "Superradiance & subradiance"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Hybrid quantum systems"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Optical tests of quantum theory"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Photon pairs & parametric down-conversion"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Photon statistics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Quantum fluctuations & noise"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Quantum measurements",
+        "fifth_category": "Quantum nondemolition measurement"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Quantum optics with artificial atoms"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Quantum state engineering"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Quantum states of light",
+        "fifth_category": "Non-gaussian quantum states"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Semiconductor quantum optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Single photon sources"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Squeezing of quantum noise"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Quantum optics",
+        "fourth_category": "Superconducting quantum optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "Ultrafast optics"
+    },
+    {
+        "first_category":"Atomic, Molecular, and Optical",
+        "second_category": "Optics & lasers",
+        "third_category": "X-ray beams & optics"
+    }
+]
+
+Continuum mechanics
+Magnetism
+Demagnetization
+Laser-induced demagnetization
+Hide 1 more
+High magnetic fields
+Kondo effect
+Magnetic anisotropy
+Magnetic coupling
+Magneto-optical effect
+Magnetocaloric effect
+Magnetoelastic effect
+Magnetoelectric effect
+Magnetostriction
+Hide 5 more
+Magnetic interactions
+Dipolar interaction
+Exchange bias
+Exchange interaction
+RKKY interaction
+Hide 4 more
+Magnetic order
+Altermagnetism
+Antiferromagnetism
+Asperomagnetism
+Diamagnetism
+Ferrimagnetism
+Ferromagnetism
+Frustrated magnetism
+Spin ice
+Artificial spin ice
+Hide 1 more
+Spin liquid
+Quantum spin liquid
+Valence bond solid
+Hide 1 more
+Hide 1 more
+Hide 2 more
+Metamagnetism
+Paramagnetism
+Sperimagnetism
+Speromagnetism
+Superparamagnetism
+Hide 12 more
+Magnetic phase transitions
+Spin state transition
+Hide 1 more
+Magnetic susceptibility
+Magnetic texture
+Domain walls
+Domain wall motion
+Hide 1 more
+Helicoidal magnetic texture
+Magnetic domains
+Magnetic vortices
+Magnetization switching
+Skyrmions
+Spin density waves
+Spin texture
+Hide 8 more
+Magnetization dynamics
+Magnetization switching
+Ultrafast magnetization dynamics
+Ultrafast demagnetization
+Hide 1 more
+Hide 2 more
+Magneto-dielectric effect
+Magnetoacoustic effect
+Magnetotransport
+Magnetoresistance
+Angular-dependent magnetoresistance
+Anisotropic magnetoresistance
+Colossal magnetoresistance
+Giant magnetoresistance
+Spin Hall magnetoresistance
+Tunneling anisotropic magnetoresistance
+Tunneling magnetoresistance
+Hide 7 more
+Hide 1 more
+Micromagnetism
+Molecular magnetism
+Spin dynamics
+Spintronics
+Spin accumulation
+Spin caloritronics
+Spin Peltier effect
+Spin Seebeck effect
+Hide 2 more
+Spin coherence
+Spin current
+Spin diffusion
+Spin filtering
+Spin generation
+Electrical generation of spin carriers
+Optical generation of spin carriers
+Spin pumping
+Hide 3 more
+Spin injection
+Dynamic spin injection
+Electrical spin injection
+Optical spin injection
+Hide 3 more
+Spin polarization
+Spin relaxation
+Spin torque
+Spin transfer torque
+Spin-orbit torque
+Hide 2 more
+Spin waves
+Hide 12 more
+Ultrafast magnetic effects
+Hide 19 more
+Optical & microwave phenomena
+Cloaking
+Electroluminescence
+Extraordinary optical transmission
+Kerr effect
+Magneto-optical Kerr effect
+Surface magneto-optical Kerr effect
+Hide 1 more
+Hide 1 more
+Light-induced magnetic effects
+Luminescence
+Magneto-optics
+Faraday effect
+Magneto-optical Kerr effect
+Surface magneto-optical Kerr effect
+Hide 1 more
+Hide 2 more
+Nanoantennas
+Optical conductivity
+Optical forces
+Optical lattices & traps
+BCS-BEC crossover
+Hide 1 more
+Optoelectronics
+Spin optoelectronics
+Hide 1 more
+Photoconductivity
+Photogalvanic effect
+Photovoltaic effect
+Shift current
+Hide 3 more
+Photocurrent
+Photoinduced effect
+Photonics
+Fano resonance
+Integrated optics
+Nanophotonics
+Topological effects in photonic systems
+Hide 4 more
+Plasma oscillations
+Plasmonics
+Refraction
+Birefringence
+Brewster's angle
+Negative refraction
+Hide 3 more
+Hide 19 more
+Radio frequency techniques
+Radio frequency calculations
+Radio frequency power sources
+Room temperature RF
+Superconducting RF
+Hide 4 more
+Superconductivity
+Andreev bound states
+Andreev reflection
+Coherence length
+Critical current
+FFLO
+Impurities in superconductors
+Isotope effect
+Josephson effect
+Meissner effect
+Multiband superconductivity
+Odd-frequency superconductivity
+Pair density wave
+Pairing mechanisms
+Electron-mediated pairing
+Electron-phonon coupling
+Spin fluctuations
+Hide 3 more
+Proximity effect
+Spin-singlet pairing
+Spin-triplet pairing
+Superconducting fluctuations
+Superconducting gap
+Pseudogap
+Hide 1 more
+Superconducting order parameter
+d-wave
+f-wave
+p-wave
+s-wave
+Hide 4 more
+Superconducting phase transition
+Superfluid density
+Penetration depth
+Hide 1 more
+Topological superconductors
+Vortices in superconductors
+Flux pinning
+Vortex lattices
+Hide 2 more
+Hide 23 more
+Thermal properties
+Elastocaloric effect
+Entropy
+Shannon entropy
+Hide 1 more
+Heat radiation
+Heat transfer
+Second sound
+Hide 1 more
+Specific heat
+Temperature
+Thermal boundary conductance
+Thermal conductivity
+Caloritronics
+Spin caloritronics
+Spin Peltier effect
+Spin Seebeck effect
+Hide 2 more
+Hide 1 more
+Electron thermal conductivity
+Lattice thermal conductivity
+Thermal Hall effect
+Thermal conductivity of fluids
+Hide 5 more
+Thermal expansion
+Thermoelasticity
+Thermoelectric effects
+Ettingshausen effect
+Nernst effect
+Peltier effect
+Seebeck effect
+Thermopower
+Hide 5 more
+Thermomagnetic effects
+Thermomechanical effects
+Hide 13 more
+Electrical properties
+Antiferroelectricity
+Capacitance
+Charge
+Charge density waves
+Charge dynamics
+Dielectric properties
+Electric polarization
+Electrical conductivity
+Electromigration
+Ionic conductivity
+Hide 2 more
+Electrocaloric effect
+Electrochemical properties
+Electron emission
+Electronic phase separation
+Electrostriction
+Ferroelectricity
+Electroresistance
+Tunneling electroresistance
+Hide 1 more
+Ferroelectric domains
+Polarization vortices
+Hide 3 more
+Field emission
+Flexoelectricity
+Impedance
+Mixed ionic electronic conduction
+Permittivity
+Piezoelectricity
+Pyroelectricity
+Resistive switching
+Skin effect
+Thermionic emission
+Wireless power transfer
+Hide 25 more
+Mechanical & acoustical properties
+Compressive strength
+Ductility
+Elasticity
+Elastic modulus
+Poisson ratio
+Hide 2 more
+Embrittlement
+Ferroelasticity
+Fracture
+Friction
+Hardness
+Material failure
+Mechanical deformation
+Anelastic deformation
+Bending
+Creep
+Elastic deformation
+Fatigue
+Internal friction
+Plastic deformation
+Shear deformation
+Strain
+Epitaxial strain
+Hide 1 more
+Twist deformation
+Hide 10 more
+Plasticity
+Rheology
+Flow boundary effects
+Flow boundary instabilities
+Flow confinement
+Slip boundary effects
+Wall slip
+Hide 4 more
+Hide 1 more
+Stress
+Stress propagation
+Hide 1 more
+Thermoacoustic effect
+Ultrasound attenuation
+Hide 15 more
+Phase transitions
+Critical phenomena
+Critical exponents
+Critical field
+Dynamic critical phenomena
+Hide 3 more
+Dynamical phase transitions
+Exotic phases of matter
+Phase-change materials
+Time crystals
+Hide 2 more
+Jamming
+Landau theory
+Nucleation
+Order diagnosis
+Order parameters
+Charge order
+Magnetic order
+Altermagnetism
+Antiferromagnetism
+Asperomagnetism
+Diamagnetism
+Ferrimagnetism
+Ferromagnetism
+Frustrated magnetism
+Spin ice
+Artificial spin ice
+Hide 1 more
+Spin liquid
+Quantum spin liquid
+Valence bond solid
+Hide 1 more
+Hide 1 more
+Hide 2 more
+Metamagnetism
+Paramagnetism
+Sperimagnetism
+Speromagnetism
+Superparamagnetism
+Hide 12 more
+Multipole order
+Nematic order
+Orbital order
+Stripes
+Structural order parameter
+Superconducting order parameter
+d-wave
+f-wave
+p-wave
+s-wave
+Hide 4 more
+Hide 8 more
+Phase diagrams
+Phase separation
+Dynamics of phase separation
+Microphase separation
+Spinodal decomposition
+Surface-driven phase separation
+Hide 4 more
+Phase transitions by order
+BKT transition
+First order phase transitions
+Second order phase transitions
+Hide 3 more
+Quantum phase transitions
+Excited-state quantum phase transitions
+Quantum criticality
+Hide 2 more
+Specific phase transitions
+Crystallization
+Depinning transition
+Ferroelectric phase transition
+Gelation
+Glass transition
+Liquid crystal phase transitions
+Liquid-gas phase transition
+Liquid-liquid phase transition
+Spinodal decomposition
+Hide 1 more
+Liquid-solid phase transition
+Magnetic phase transitions
+Spin state transition
+Hide 1 more
+Martensitic phase transition
+Metal-insulator transition
+Mott-superfluid transition
+Nematic phase transition
+Solid-solid transformations
+Spin reorientation transition
+Structural phase transition
+Superconducting phase transition
+Superconductor-insulator transition
+Hide 19 more
+Transition temperature
+Hide 14 more
+Robotics
+Superfluidity
+Vortices in superfluids
+Hide 1 more
+Topological phases of matter
+Symmetry protected topological states
+Topolectrical circuits
+Topological insulators
+Chern insulators
+Dilute magnetic topological insulators
+Hide 2 more
+Topological order
+Topological phase transition
+Topological superconductors
+Hide 6 more
+Electronic structure
+Density of states
+Band gap
+Local density of states
+van Hove singularity
+Hide 3 more
+Edge states
+Fermi surface
+Luttinger's theorem
+Nesting
+Shubnikov-de Haas effect
+de Haas-van Alphen effect
+Hide 4 more
+Flat bands
+Landau levels
+Landau-Zener effect
+Spin-orbit coupling
+Dresselhaus coupling
+Dzyaloshinskii-Moriya interaction
+Rashba coupling
+Hide 3 more
+Spin-phonon coupling
+Surface states
+Twistronics
+Valley degrees of freedom
+Valleytronics
+Hide 12 more
+Mesoscopics
+Coulomb blockade
+Geometric & topological phases
+Berry curvature
+Uhlmann phase
+Hide 2 more
+Phase slips
+Quantum interference effects
+Aharonov-Bohm effect
+Aharonov-Casher effect
+Hide 2 more
+Spin blockade
+Hide 5 more
+Quasiparticles & collective excitations
+Anyons
+Majorana bound states
+Hide 1 more
+Bosons
+Composite bosons
+Cooper pairs
+Goldstone bosons
+Hard-core bosons
+Hide 4 more
+Doublon
+Excitons
+Biexcitons
+Orthoexcitons
+Paraexcitons
+Hide 3 more
+Fermions
+Composite fermions
+Dirac fermions
+Majorana fermions
+Parafermions
+Spinless fermions
+Weyl fermions
+Hide 6 more
+Fractionalization
+Fractons
+Holon
+Lifetimes & widths
+Lifetime of molecular or ionic species
+Hide 1 more
+Magnons
+Phasons
+Phonons
+Acoustic phonons
+Optical phonons
+Hide 2 more
+Plasmons
+Surface plasmons
+Hide 1 more
+Polaritons
+Exciton polariton
+Intersubband polariton
+Phonon polariton
+Surface phonon polaritons
+Surface plasmon polariton
+Hide 5 more
+Polarons
+Spinon
+Trions
+Triplon
+Hide 18 more
+Structural properties
+Chemical bonding
+Valence
+Hide 1 more
+Composition
+Crystal field excitations
+Crystal phenomena
+Crystal binding
+Crystal defects
+Crystal forms
+Crystal growth
+Crystal melting
+Crystal orientation
+Crystal stoichiometry
+Crystal structure
+Crystal symmetry
+Crystallization
+Nanocrystals
+Polycrystals
+Quasicrystalline structure
+Hide 13 more
+Defects
+Color centers
+Disclinations & dislocations
+Dopants
+Grain boundaries
+Impurities
+Interstitials
+Line defects
+Point defects
+Stacking faults
+Twinning
+Vacancies
+NV centers
+Nitrogen vacancy centers in diamond
+Hide 1 more
+Silicon vacancies
+Hide 2 more
+Hide 11 more
+Domains
+Domain walls
+Domain wall motion
+Hide 1 more
+Hide 1 more
+Doping effects
+Elasticity
+Elastic modulus
+Poisson ratio
+Hide 2 more
+Ferroelasticity
+Intercalation
+Jahn-Teller effect
+Pseudo Jahn-Teller effect
+Hide 1 more
+Lattice dynamics
+Anharmonic lattice dynamics
+Electron-phonon coupling
+Topological effects in acoustic systems
+Hide 3 more
+Microstructure
+Peierls transition
+Plasticity
+Pressure effects
+High-pressure studies
+Shock waves
+Hide 2 more
+Shape memory effect
+Hide 17 more
+Surface & interfacial phenomena
+Adhesion
+Adsorption
+Adsorption isotherm
+Chemisorption
+Gravimetric adsorption measurements
+Physisorption
+Volumetric adsorption measurements
+Hide 5 more
+Atom impact & scattering
+Cohesion
+Self-healing
+Hide 1 more
+Cracking
+Crazing
+Desorption
+Fracture
+Friction
+Growth
+Island
+Hide 1 more
+Ion impact & scattering
+Irradiation effects
+Radiation damage
+Hide 1 more
+Island
+Lubrication
+Nucleation on surfaces
+Roughness
+Surface diffusion
+Surface instabilities
+Buckling
+Cratering
+Creasing
+Wrinkling
+Hide 4 more
+Surface reconstruction
+Tribology
+Abrasion
+Friction
+Lubrication
+Wear
+Hide 4 more
+Wall slip
+Wetting
+Hide 22 more
+Transport phenomena
+Ballistic transport
+Carrier dynamics
+Carrier generation & recombination
+Classical transport
+Fourier's law
+Hide 1 more
+Diffusion
+Anomalous diffusion
+Self-diffusion
+Hide 2 more
+Diffusiophoresis
+Dissipative dynamics
+Electrical conductivity
+Electromigration
+Ionic conductivity
+Hide 2 more
+Electron relaxation
+Electrophoresis
+Hall effect
+Anomalous Hall effect
+Quantum Hall effect
+Fractional quantum Hall effect
+Integer quantum Hall effect
+Hide 2 more
+Quantum anomalous Hall effect
+Quantum spin Hall effect
+Spin Hall effect
+Inverse spin Hall effect
+Hide 1 more
+Topological Hall effect
+Hide 6 more
+Hopping transport
+Ionic transport
+Kane-Mele model
+Kondo effect
+Localization
+Anderson localization
+Many-body localization
+Weak antilocalization
+Weak localization
+Hide 4 more
+Percolation
+Directed percolation
+Hide 1 more
+Quantum transport
+Skin effect
+Thermophoresis
+Hide 20 more
